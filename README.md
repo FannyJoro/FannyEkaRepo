@@ -1,0 +1,2 @@
+# FannyEkaRepo
+Eka repositorini
